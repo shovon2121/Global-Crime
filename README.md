@@ -13,3 +13,4 @@
 ![Home Page](screenshots/crime.PNG)
 ## The user can see the postion of those countries on narcotics consumption
 ![Narco Page](screenshots/narco.PNG)
+## The user can update the information using settin
